@@ -25,11 +25,11 @@ This Sales Invoice Generator is a desktop application that helps in creating and
 
 Sales-Invoice-Generator/
 ├── src/
-│   └── com/
-│       └── sig/
-│           ├── controller/
-│           ├── model/
-│           └── view/
+│ └── com/
+│ └── sig/
+│ ├── controller/
+│ ├── model/
+│ └── view/
 ├── build/
 ├── dist/
 ├── nbproject/
@@ -39,6 +39,11 @@ Sales-Invoice-Generator/
 ├── build.xml
 ├── manifest.mf
 └── screenshot.JPG
+
+- **src/com/sig/controller**: Contains controller classes that handle user inputs and update the model and view.
+- **src/com/sig/model**: Contains the data model classes representing the core functionality.
+- **src/com/sig/view**: Contains the view classes for the GUI.
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
