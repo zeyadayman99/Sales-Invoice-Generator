@@ -5,6 +5,7 @@ A Sales Invoice generator project built using Java, OOP principles, and Swing MV
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=oracle&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=pattern&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
 
 ## Introduction
 This Sales Invoice Generator is a desktop application that helps in creating and managing sales invoices. It is built using Java and follows the MVC (Model-View-Controller) design pattern to separate the application's logic, UI, and control.
